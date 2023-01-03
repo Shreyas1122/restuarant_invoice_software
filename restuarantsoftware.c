@@ -42,7 +42,7 @@ void shreyas(){
 		printf("\t\t\t SGST:\t\t\t%f\n\n",sgst);
 		printf("\t\t\t YOUR GRAND TOTAL IS\t %d\n\n\n",grandtotal);
 		printf("\t\t         ---------------------------------\n\n");
-		printf("\t\t\t\ THANK YOU %s VISIT AGAIN",nameofc);
+		printf("\t\t\t THANK YOU %s VISIT AGAIN",nameofc);
 		}
 		
 		
@@ -81,7 +81,7 @@ void shreyas(){
 		printf("\t\t\t SGST:\t\t\t%f\n\n",sgst);
 		printf("\t\t\t YOUR GRAND TOTAL IS\t %d\n\n",greatgrandtotal);
 			printf("\t\t         ---------------------------------\n\n");
-		printf("\t\t\t\ THANK YOU %s VISIT AGAIN",nameofc);
+		printf("\t\t\t THANK YOU %s VISIT AGAIN",nameofc);
 		}  
 		
 		
@@ -131,7 +131,7 @@ void shreyas(){
 		printf("\t\t\t SGST:\t\t\t%f\n\n",sgst);
 		printf("\t\t\t YOUR GRAND TOTAL IS\t %d\n\n",greatgrandtotal1);
 			printf("\t\t          ---------------------------------\n\n");
-		printf("\t\t\t\ THANK YOU %s VISIT AGAIN",nameofc);
+		printf("\t\t\t THANK YOU %s VISIT AGAIN",nameofc);
 		}  
 		
 		
@@ -194,7 +194,7 @@ void shreyas(){
 		printf("\t\t\t SGST:\t\t\t%f\n\n",sgst);
 		printf("\t\t\t YOUR GRAND TOTAL IS\t %d\n\n",greatgrandtotal2);
 			printf("\t\t         ---------------------------------\n\n");
-		printf("\t\t\t\ THANK YOU %s VISIT AGAIN",nameofc);
+		printf("\t\t\t THANK YOU %s VISIT AGAIN",nameofc);
 		}  
 		
 		
